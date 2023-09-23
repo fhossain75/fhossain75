@@ -13,4 +13,11 @@ Experiences
 - Software Engineer Intern, Data Science Intern at [Medidata Solutions](https://www.medidata.com/en/)
 
 Awards
--
+- UGAHacks 7 Hackathon (Feb 2022)
+  - **BlackRock** ESG Challenge – **1st Place**
+  - **Figma** UI/UX Challenge – **1st Place**
+  - **NCR** Eliminate the Friction Challenge- **Finalist**
+- **Wells Fargo** Data Science Competition – **2nd Place** (Apr 2021)
+- UGAHacks 7 Hackathon (Feb 2022)
+  - Capital One Challenge – **1st Place**
+  - NCR Challenge - **3rd Place**
