@@ -13,12 +13,12 @@ Experiences
 - Software Engineer Intern, Data Science Intern at [Medidata Solutions](https://www.medidata.com/en/)
 
 Awards
-- UGAHacks 7 Hackathon [(Feb 2022)] (https://www.linkedin.com/posts/faisal75_blackrock-hackathon-presentation-1st-activity-6901653956213510144-mBvw)
+- UGAHacks 7 Hackathon [(Feb 2022)](https://www.linkedin.com/posts/faisal75_blackrock-hackathon-presentation-1st-activity-6901653956213510144-mBvw)
   - **BlackRock** ESG Challenge – **1st Place**
   - **Figma** UI/UX Challenge – **1st Place**
   - **NCR** Eliminate the Friction Challenge - **Finalist**
-- Data Science / Machine Learning Competition [(Apr 2021)] (https://www.linkedin.com/posts/faisal75_wells-fargo-hackathon-presentation-2nd-activity-6792461988401344514-0Fsf)
+- Data Science / Machine Learning Competition [(Apr 2021)](https://www.linkedin.com/posts/faisal75_wells-fargo-hackathon-presentation-2nd-activity-6792461988401344514-0Fsf)
   – **Wells Fargo** - **2nd Place**
-- UGAHacks 6 Hackathon [(Feb 2022)] (https://www.linkedin.com/posts/faisal75_hackathon-covid-innovative-activity-6764602294932652032-jOr2)
+- UGAHacks 6 Hackathon [(Feb 2022)](https://www.linkedin.com/posts/faisal75_hackathon-covid-innovative-activity-6764602294932652032-jOr2)
   - **Capital One** Financial Hack Challenge – **1st Place**
   - **NCR** Bank Challenge - **3rd Place**
