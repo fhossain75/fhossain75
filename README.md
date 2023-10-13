@@ -1,10 +1,10 @@
-### Hi there, I'm [Faisal](https://www.linkedin.com/in/faisal75/) 👋
+### Hi there, I'm [Faisal](https://www.linkedin.com/in/faisal75/) 👋🏼
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
 [![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-I'm a recent CS graduate from the University of Georgia with a solid foundation in finance and a passion for tackling complex problems. Excited to leverage this dual expertise to drive innovation in the tech and financial sectors. 
+I'm a CS graduate from the University of Georgia with a solid foundation in finance and a passion for tackling complex problems. Excited to leverage this dual expertise to drive innovation in the tech and financial sectors. 
 
 Experiences
 - Engineering Analyst at [Goldman Sachs](https://www.goldmansachs.com/)
