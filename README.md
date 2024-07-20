@@ -22,3 +22,7 @@ Awards
 - UGAHacks 6 Hackathon [(Feb 2022)](https://www.linkedin.com/posts/faisal75_hackathon-covid-innovative-activity-6764602294932652032-jOr2)
   - **Capital One** Financial Hack Challenge – **1st Place**
   - **NCR** Bank Challenge – **3rd Place**
+ 
+Education
+- BS in Computer Science, Emphasis: Applied Data Science at [University of Georgia](https://www.cs.uga.edu/)
+- MS in Computer Science, Emphasis: Machine Learning at [Georgia Institute of Technology](https://www.cc.gatech.edu/)
